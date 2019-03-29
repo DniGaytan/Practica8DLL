@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Practica8LibreriaA00819362.cpp
+c:\users\danya\desktop\programming\algoritmos\practica8libreriaa00819362\practica8libreriaa00819362\practica8libreriaa00819362.cpp(26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\danya\desktop\programming\algoritmos\practica8libreriaa00819362\practica8libreriaa00819362\practica8libreriaa00819362.cpp(24): warning C4101: 'i': variable local sin referencia
+c:\users\danya\desktop\programming\algoritmos\practica8libreriaa00819362\practica8libreriaa00819362\practica8libreriaa00819362.cpp(32): warning C4273: 'startProcess': vinculación de DLL incoherente
+  c:\users\danya\desktop\programming\algoritmos\practica8libreriaa00819362\practica8libreriaa00819362\practica8libreria.h(15): note: vea la definición anterior de 'startProcess'
+c:\users\danya\desktop\programming\algoritmos\practica8libreriaa00819362\practica8libreriaa00819362\practica8libreriaa00819362.cpp(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: vea la declaración de 'scanf'
+     Creando biblioteca C:\Users\danya\Desktop\Programming\Algoritmos\Practica8LibreriaA00819362\Debug\Practica8LibreriaA00819362.lib y objeto C:\Users\danya\Desktop\Programming\Algoritmos\Practica8LibreriaA00819362\Debug\Practica8LibreriaA00819362.exp
+  Practica8LibreriaA00819362.vcxproj -> C:\Users\danya\Desktop\Programming\Algoritmos\Practica8LibreriaA00819362\Debug\Practica8LibreriaA00819362.dll
+  Practica8LibreriaA00819362.vcxproj -> C:\Users\danya\Desktop\Programming\Algoritmos\Practica8LibreriaA00819362\Debug\Practica8LibreriaA00819362.pdb (Partial PDB)
